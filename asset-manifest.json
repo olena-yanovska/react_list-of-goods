@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.764812af.chunk.css",
-    "main.js": "./static/js/main.7bd37114.chunk.js",
-    "main.js.map": "./static/js/main.7bd37114.chunk.js.map",
+    "main.css": "./static/css/main.65a9ead8.chunk.css",
+    "main.js": "./static/js/main.2b5ccd23.chunk.js",
+    "main.js.map": "./static/js/main.2b5ccd23.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.958277bc.js",
     "runtime-main.js.map": "./static/js/runtime-main.958277bc.js.map",
     "static/css/2.d20abe7f.chunk.css": "./static/css/2.d20abe7f.chunk.css",
@@ -10,15 +10,15 @@
     "static/js/2.cc4577b2.chunk.js.map": "./static/js/2.cc4577b2.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.d20abe7f.chunk.css.map": "./static/css/2.d20abe7f.chunk.css.map",
-    "static/css/main.764812af.chunk.css.map": "./static/css/main.764812af.chunk.css.map",
+    "static/css/main.65a9ead8.chunk.css.map": "./static/css/main.65a9ead8.chunk.css.map",
     "static/js/2.cc4577b2.chunk.js.LICENSE.txt": "./static/js/2.cc4577b2.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "./static/media/phonoteka.f1f1c9e1.jpg"
+    "static/media/App.scss": "./static/media/phonoteka.17b76e87.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.958277bc.js",
     "static/css/2.d20abe7f.chunk.css",
     "static/js/2.cc4577b2.chunk.js",
-    "static/css/main.764812af.chunk.css",
-    "static/js/main.7bd37114.chunk.js"
+    "static/css/main.65a9ead8.chunk.css",
+    "static/js/main.2b5ccd23.chunk.js"
   ]
 }
